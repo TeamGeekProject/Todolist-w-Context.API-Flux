@@ -1,7 +1,8 @@
 import React from "react";
-import rigoImage from "../../img/rigo-baby.jpg";
 import "../../styles/home.css";
-import { Link } from "react-router-dom";
+
+//import { useContext, createContext, useState } from "react";
+//import { Context } from "../store/appContext";
 
 export const Home = () => (
   <div className="text-center mt-5">
