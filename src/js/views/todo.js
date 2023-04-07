@@ -62,6 +62,7 @@ export const Todo = () => {
           </div>
         </div>
       </div>
+
     <br/>
     <div><Link to="/home">
     <button className="btn btn-primary">Back home</button>
@@ -70,4 +71,3 @@ export const Todo = () => {
   </div>
   );
 };
-
