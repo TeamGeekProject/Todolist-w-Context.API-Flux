@@ -4,9 +4,7 @@ import "../../styles/home.css";
 //import { useContext, createContext, useState } from "react";
 //import { Context } from "../store/appContext";
 
-
- export const Home = () => (
-
+export const Home = () => (
   <div className="text-center mt-5">
     <p>This project has been created by:</p>
     <ul className=" list-group">
